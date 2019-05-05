@@ -1,0 +1,40 @@
+Plan
+
+
+
+Understand the planning and reasons for any architecture selection
+
+basic programming concepts
+OS concepts
+server mangement tools (pages and subpages)
+IAS (Infrastructure Provisionings,Configuration management,containers)
+CI/CD
+Monitoring (Software and infra)
+
+AWS cloud
+  Services based pages and subpages accordingly, general block used, service specific actual use-case
+  Use cases examples
+  Solution : Services
+             
+  compute      EC2
+             
+  storage      S3
+               EBS
+               Glacier
+               
+  database     RDS
+  
+  App integ    SNS
+  
+  Analytics    EMR
+  
+  Networking   ELB
+  
+  Security &   IAM    User
+  compliance          Roles
+  
+  
+
+
+Reference:
+https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb
